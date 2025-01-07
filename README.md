@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Naailah and I am currently learning how to operate GitHub!
+I am Naailah and I am currently learning how to operate GitHub!\n
 My favourite coding languages include Python and Java
 Currently working on a simple ToDo Webapp :)
 
