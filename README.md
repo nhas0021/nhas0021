@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am Naailah and I am currently learning how to operate GitHub!\n
-My favourite coding languages include Python and Java
-Currently working on a simple ToDo Webapp :)
+- I am Naailah and I am currently learning how to operate GitHub!  
+- My favourite coding languages include Python and Java  
+- Currently working on a simple ToDo Webapp :)
 
 <!--
 **nhas0021/nhas0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
