@@ -1,7 +1,7 @@
 ## Hi there 👋
 - I am Naailah and I am currently studying Bachelor of Software Engineering  (Honours) at Monash University!
 - My favourite coding languages include Python and Java  
-- Currently learning C :)
+- Currently learning C and refreshing my web development skills :)
 
 <!--
 **nhas0021/nhas0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
